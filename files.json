@@ -1,0 +1,650 @@
+{
+  "/bin/systemd-tmpfiles": [
+    "d5b74bed0619b9917e6e4929ee1d1797",
+    "755"
+  ],
+  "/bin/systemd-sysusers": [
+    "f2ccb09c8dbd448215dfbf68dbbffb2c",
+    "755"
+  ],
+  "/bin/ntfsmove": [
+    "1f63cd12d07893321285b780ea7cb602",
+    "755"
+  ],
+  "/bin/setupcon": [
+    "66c59f7ad13dc09ad7a8f1bdbfde3b4e",
+    "755"
+  ],
+  "/bin/chacl": [
+    "e49c68a5448a0db2f84e836bfd30963f",
+    "755"
+  ],
+  "/bin/zegrep": [
+    "2221804bc19bc972f0832164279fc38c",
+    "755"
+  ],
+  "/bin/zless": [
+    "182ea700442885f568585f374423073d",
+    "755"
+  ],
+  "/bin/lowntfs-3g": [
+    "d9685000d3619bf41bb59de124328b5b",
+    "755"
+  ],
+  "/bin/bash": [
+    "5b62133afdcb9e96015f8679888f4434",
+    "755"
+  ],
+  "/bin/bzdiff": [
+    "e786fc0d18a8c8679897afec7dc20f81",
+    "755"
+  ],
+  "/bin/bunzip2": [
+    "c55a28e26054cdf4279b156efd4993d3",
+    "755"
+  ],
+  "/bin/busybox": [
+    "70a5c00463a2006fb673c064b424f53d",
+    "755"
+  ],
+  "/bin/ntfssecaudit": [
+    "1863998bc0d8a488d90adb0c0186e85a",
+    "755"
+  ],
+  "/bin/zmore": [
+    "33f85cb0c62fc22f5c2ad0f067c5e83a",
+    "755"
+  ],
+  "/bin/login": [
+    "b51aff299f5059abe52131747399a179",
+    "755"
+  ],
+  "/bin/kill": [
+    "9021320f5551fb129dc854ef6a5d7ae7",
+    "755"
+  ],
+  "/bin/ntfsfix": [
+    "215ca764ecd1122c1a223dd32f8ca756",
+    "755"
+  ],
+  "/bin/lesspipe": [
+    "bfbab3b6e3ace53886f9a238ffe190f8",
+    "755"
+  ],
+  "/bin/gunzip": [
+    "66c1aae4b4d46f1ab430a7c325c9c948",
+    "755"
+  ],
+  "/bin/zcat": [
+    "90c4b28b74f640cf617df28fdb2a4343",
+    "755"
+  ],
+  "/bin/loadkeys": [
+    "13c008b2cdd34597c96b89a2fad1d332",
+    "755"
+  ],
+  "/bin/date": [
+    "ee234d9137cf221bdf977e36c301f977",
+    "755"
+  ],
+  "/bin/dd": [
+    "36a70f825b8b71a3d9ba3ac9c5800683",
+    "755"
+  ],
+  "/bin/ping": [
+    "483ff50857f26f9bd636bed69db8bf8f",
+    "755"
+  ],
+  "/bin/sleep": [
+    "2fb28b5c237207b71c89ac6eb5861a5c",
+    "755"
+  ],
+  "/bin/chmod": [
+    "f1f0ca8ec9aac811733d1c9435e196a6",
+    "755"
+  ],
+  "/bin/zdiff": [
+    "a5a19c20adac5c2fd442e210a7019541",
+    "755"
+  ],
+  "/bin/lessfile": [
+    "bfbab3b6e3ace53886f9a238ffe190f8",
+    "755"
+  ],
+  "/bin/fuser": [
+    "21f8004ca41949dbcb6763c9256ca6dd",
+    "755"
+  ],
+  "/bin/systemd-escape": [
+    "4850410bf8f2a59e26cb9485d4524aaa",
+    "755"
+  ],
+  "/bin/bzless": [
+    "e243255b6cf3b9403df53cb9cd6176e1",
+    "755"
+  ],
+  "/bin/ntfs-3g": [
+    "a917787eae50117dec8646d6187af00a",
+    "755"
+  ],
+  "/bin/cpio": [
+    "f3f83e29491aa2117683890dc9a41760",
+    "755"
+  ],
+  "/bin/umount": [
+    "f4d44e2a6e94f78b204692a992b473d6",
+    "755"
+  ],
+  "/bin/df": [
+    "68bec6385a18330f56ab7185da8ce23c",
+    "755"
+  ],
+  "/bin/static-sh": [
+    "70a5c00463a2006fb673c064b424f53d",
+    "755"
+  ],
+  "/bin/ntfsusermap": [
+    "056c646abbb5f73050b4c9d22e46806a",
+    "755"
+  ],
+  "/bin/which": [
+    "e942f154ef9d9974366551d2d231d936",
+    "755"
+  ],
+  "/bin/nc": [
+    "3dd534fc7f982d3d79391e8c26bcf023",
+    "755"
+  ],
+  "/bin/systemd": [
+    "03cddd2709f1e1c9e32a45a95dd58c54",
+    "755"
+  ],
+  "/bin/dnsdomainname": [
+    "2fcbbbc284943af3ec52978c9bb0a2db",
+    "755"
+  ],
+  "/bin/hostname": [
+    "2fcbbbc284943af3ec52978c9bb0a2db",
+    "755"
+  ],
+  "/bin/pidof": [
+    "b815919bd5b0804e9dd81479269774d5",
+    "755"
+  ],
+  "/bin/pwd": [
+    "9c0791eb48f353f7901dc7e421142d2c",
+    "755"
+  ],
+  "/bin/chown": [
+    "1fd5505e1917e62ce3a6b0890bceb102",
+    "755"
+  ],
+  "/bin/netcat": [
+    "3dd534fc7f982d3d79391e8c26bcf023",
+    "755"
+  ],
+  "/bin/gzip": [
+    "4a728ea66d3a42c06ae7a4c6d0b6da90",
+    "755"
+  ],
+  "/bin/false": [
+    "2a0575d3c20962b2ef3844b2192ffe4e",
+    "755"
+  ],
+  "/bin/znew": [
+    "28e60ed41c0a59a442cade866bff3a97",
+    "755"
+  ],
+  "/bin/ntfswipe": [
+    "b766c9874ec2bbc84f0aa56cdf5053ac",
+    "755"
+  ],
+  "/bin/dmesg": [
+    "6900a7ab7bcb6293c381e286af7f7738",
+    "755"
+  ],
+  "/bin/mv": [
+    "73acc119e24c972cb281e7957eb590f4",
+    "755"
+  ],
+  "/bin/findmnt": [
+    "0ab92345d6dac77dfce822c683fa54cb",
+    "755"
+  ],
+  "/bin/udevadm": [
+    "c8fa08c6a808d14a53d77e9bc0336edb",
+    "755"
+  ],
+  "/bin/ypdomainname": [
+    "2fcbbbc284943af3ec52978c9bb0a2db",
+    "755"
+  ],
+  "/bin/ulockmgr_server": [
+    "3c67d5ebb872e6783b3cfc7921679342",
+    "755"
+  ],
+  "/bin/zforce": [
+    "80aacfbde81d03d20788f370417651cc",
+    "755"
+  ],
+  "/bin/ntfsfallocate": [
+    "4201aa63141bbc36279fa5680481c17c",
+    "755"
+  ],
+  "/bin/systemd-hwdb": [
+    "9cbbee46e4f00871fef63012ee7f3f66",
+    "755"
+  ],
+  "/bin/vdir": [
+    "11b1854a31ef5482562f282a40ac0452",
+    "755"
+  ],
+  "/bin/gzexe": [
+    "5707c43e99bd5ae2c4660ec1bcc213c1",
+    "755"
+  ],
+  "/bin/fgrep": [
+    "3885488b9d1d10902c6b9c18e20bf952",
+    "755"
+  ],
+  "/bin/egrep": [
+    "ef55d1537377114cc24cdc398fbdd930",
+    "755"
+  ],
+  "/bin/mktemp": [
+    "d0e383dbf8301bfd9cd0edea5da38673",
+    "755"
+  ],
+  "/bin/su": [
+    "904c7d323d3d534fba090461de5f9360",
+    "755"
+  ],
+  "/bin/ntfsls": [
+    "20a676a76270f032e8b191816648f19b",
+    "755"
+  ],
+  "/bin/sh.distrib": [
+    "453dc13f62c115c7b28cb4ede0ea3107",
+    "755"
+  ],
+  "/bin/lsblk": [
+    "c1822765a2de9e3add48a0c05d90adbf",
+    "755"
+  ],
+  "/bin/bzip2recover": [
+    "d0d7cb4c68e45f8021fa0177bd124e32",
+    "755"
+  ],
+  "/bin/unicode_start": [
+    "74cc360b19fc2a94ea620ef5803a381b",
+    "755"
+  ],
+  "/bin/setfacl": [
+    "67c409a573ceeab89767a200526db2a6",
+    "755"
+  ],
+  "/bin/rbash": [
+    "5b62133afdcb9e96015f8679888f4434",
+    "755"
+  ],
+  "/bin/mknod": [
+    "c1177b41180c1cd8aad3a9970f79a02d",
+    "755"
+  ],
+  "/bin/mkdir": [
+    "efc6bf4d455ffa73ab6e5aaef52c7b64",
+    "755"
+  ],
+  "/bin/dash": [
+    "453dc13f62c115c7b28cb4ede0ea3107",
+    "755"
+  ],
+  "/bin/bzegrep": [
+    "2b11565d85da178b3a1942a22d20c624",
+    "755"
+  ],
+  "/bin/chgrp": [
+    "5940e9a9a152e4c5ef002813076fa5ea",
+    "755"
+  ],
+  "/bin/bzip2": [
+    "c55a28e26054cdf4279b156efd4993d3",
+    "755"
+  ],
+  "/bin/zfgrep": [
+    "851406fce257ba85b3324e7083922d5d",
+    "755"
+  ],
+  "/bin/mt-gnu": [
+    "669cf52f07432e3c7920adf2e12dee61",
+    "755"
+  ],
+  "/bin/domainname": [
+    "2fcbbbc284943af3ec52978c9bb0a2db",
+    "755"
+  ],
+  "/bin/ls": [
+    "931606baaa7a2b4ef61198406f8fc3f4",
+    "755"
+  ],
+  "/bin/cat": [
+    "749bda6cb12341b7c83c5bb45579201a",
+    "755"
+  ],
+  "/bin/kmod": [
+    "1807b1cea9f8ab481a6b6a76734d9fb3",
+    "755"
+  ],
+  "/bin/grep": [
+    "be7f3646805907395e869f7f0469a371",
+    "755"
+  ],
+  "/bin/red": [
+    "7ee1c42c8afd7a5fb6cccc6fa45c08de",
+    "755"
+  ],
+  "/bin/jmz": [
+    "cbd851043425e6f297ed7f780c444189",
+    "644"
+  ],
+  "/bin/fusermount": [
+    "38982d3a6b85474ba99b204a0fbb0f0f",
+    "755"
+  ],
+  "/bin/dumpkeys": [
+    "9e8a6b8d8c161a75ff9cafe2be0b594c",
+    "755"
+  ],
+  "/bin/ntfscmp": [
+    "5d732f42d980518c12d93b00ba10eb01",
+    "755"
+  ],
+  "/bin/loginctl": [
+    "617c1d8b679c49d6bddb0c9b876b1450",
+    "755"
+  ],
+  "/bin/uname": [
+    "2cabd534eb5438a0fed74b98dadcd65b",
+    "755"
+  ],
+  "/bin/zgrep": [
+    "95c89486d3fc91bc349d3472ca2ee62e",
+    "755"
+  ],
+  "/bin/kbd_mode": [
+    "9e0f203b22f870c04470a5c49c72a6a6",
+    "755"
+  ],
+  "/bin/mount": [
+    "1fd9f0e450681cfd4d41228a2d14bfd5",
+    "755"
+  ],
+  "/bin/systemd-ask-password": [
+    "118d382233b31c47aad2ec2a44902ac2",
+    "755"
+  ],
+  "/bin/hciconfig": [
+    "a10c29f32012ed187ac1fa66f4632c00",
+    "755"
+  ],
+  "/bin/bzcat": [
+    "c55a28e26054cdf4279b156efd4993d3",
+    "755"
+  ],
+  "/bin/bzcmp": [
+    "e786fc0d18a8c8679897afec7dc20f81",
+    "755"
+  ],
+  "/bin/rm": [
+    "b89143b082f931507c92d5be5dfae035",
+    "755"
+  ],
+  "/bin/efibootmgr": [
+    "872eae4598912dce0760a0f343b90607",
+    "755"
+  ],
+  "/bin/networkctl": [
+    "4c1e0d94b9cb69bdb2b6b04ccefac769",
+    "755"
+  ],
+  "/bin/chvt": [
+    "eb307516cffbc5e529cf9c7350ffc299",
+    "755"
+  ],
+  "/bin/whiptail": [
+    "cc77c0dc498b65c86a37855cf0d9d7d3",
+    "755"
+  ],
+  "/bin/bzfgrep": [
+    "2b11565d85da178b3a1942a22d20c624",
+    "755"
+  ],
+  "/bin/fgconsole": [
+    "caa1e57eb38ed684cb50dcfa32ed0150",
+    "755"
+  ],
+  "/bin/lsmod": [
+    "1807b1cea9f8ab481a6b6a76734d9fb3",
+    "755"
+  ],
+  "/bin/ntfscat": [
+    "d6bbdc1ec43580d1dc19e751a886cbf8",
+    "755"
+  ],
+  "/bin/tempfile": [
+    "7a1e018840c65325afbac10c7cf07bdf",
+    "755"
+  ],
+  "/bin/lessecho": [
+    "57b48e81b02544d20bd1cf30eb606cf5",
+    "755"
+  ],
+  "/bin/lesskey": [
+    "154d6b8a727267b6a66ff0969d6ee808",
+    "755"
+  ],
+  "/bin/ntfscluster": [
+    "e3cee76d81bd4d237f3a6713d41d036b",
+    "755"
+  ],
+  "/bin/touch": [
+    "9af660ef63fbb9e5175d56f064d7a0db",
+    "755"
+  ],
+  "/bin/mt": [
+    "669cf52f07432e3c7920adf2e12dee61",
+    "755"
+  ],
+  "/bin/tar": [
+    "0b9b4e1d79f22ad4b4d89da6329c9db2",
+    "755"
+  ],
+  "/bin/open": [
+    "d5e69c4b4374be99ec07d8307317aae7",
+    "755"
+  ],
+  "/bin/uncompress": [
+    "66c1aae4b4d46f1ab430a7c325c9c948",
+    "755"
+  ],
+  "/bin/zcmp": [
+    "6400edeffb01785cb7426801619d8535",
+    "755"
+  ],
+  "/bin/systemd-tty-ask-password-agent": [
+    "b72799b84b46474bf15aaefd11933e18",
+    "755"
+  ],
+  "/bin/cp": [
+    "f7d53f25b67715fd4959eb7787de7902",
+    "755"
+  ],
+  "/bin/systemctl": [
+    "871a7502f21515a74f441ad62a84357e",
+    "755"
+  ],
+  "/bin/wdctl": [
+    "3fe51a23e057ddedbfc27de7424d6600",
+    "755"
+  ],
+  "/bin/more": [
+    "aefde95327b1e83284df1967de78d3d0",
+    "755"
+  ],
+  "/bin/rmdir": [
+    "40e3c0e7de3441578eda81e678439a98",
+    "755"
+  ],
+  "/bin/systemd-inhibit": [
+    "6649ce76bad2441d2594e5d42a765280",
+    "755"
+  ],
+  "/bin/rnano": [
+    "4789725dd2d8061e7faf00fce9af48e1",
+    "755"
+  ],
+  "/bin/ed": [
+    "68023c2266c090602bc79a552598bb0a",
+    "755"
+  ],
+  "/bin/getfacl": [
+    "b82a6d48d6cf95db2032c5df130d20e2",
+    "755"
+  ],
+  "/bin/mountpoint": [
+    "89171969b642e893d43882f5e12e5b76",
+    "755"
+  ],
+  "/bin/ps": [
+    "276fb91ef7eed851d804559c1874c04e",
+    "755"
+  ],
+  "/bin/readlink": [
+    "7f2d17228e29c20b61395592bf767396",
+    "755"
+  ],
+  "/bin/sed": [
+    "2b1dae758922d83c5a74884dcdacaa6a",
+    "755"
+  ],
+  "/bin/bzexe": [
+    "10a5a0be2ad3f47fff12daaf1c0256c5",
+    "755"
+  ],
+  "/bin/sync": [
+    "6c0d947d0c2435ebd936cc21c2e65e67",
+    "755"
+  ],
+  "/bin/systemd-notify": [
+    "693b2a3034b2a27f3590d11e1160fef4",
+    "755"
+  ],
+  "/bin/ntfstruncate": [
+    "1980ede28da54c1fa75dc384d7d336e0",
+    "755"
+  ],
+  "/bin/efibootdump": [
+    "58305675c6e9d9ddee2c9a7b45be6de9",
+    "755"
+  ],
+  "/bin/nisdomainname": [
+    "2fcbbbc284943af3ec52978c9bb0a2db",
+    "755"
+  ],
+  "/bin/echo": [
+    "518882eba51b05a15463e639892dda37",
+    "755"
+  ],
+  "/bin/true": [
+    "3c30e683c800bf19594e529602b949aa",
+    "755"
+  ],
+  "/bin/run-parts": [
+    "687865191f9a35c87dfb1657fa47fc9f",
+    "755"
+  ],
+  "/bin/bzmore": [
+    "e243255b6cf3b9403df53cb9cd6176e1",
+    "755"
+  ],
+  "/bin/stty": [
+    "9ab3195832ffa4ca4a56e4bb536784ca",
+    "755"
+  ],
+  "/bin/ntfs-3g.probe": [
+    "58421a019ec41210dd0d250f4bd58e81",
+    "755"
+  ],
+  "/bin/systemd-machine-id-setup": [
+    "3682c9692d4e3f716e47b429dfd26ef7",
+    "755"
+  ],
+  "/bin/ping6": [
+    "483ff50857f26f9bd636bed69db8bf8f",
+    "755"
+  ],
+  "/bin/openvt": [
+    "d5e69c4b4374be99ec07d8307317aae7",
+    "755"
+  ],
+  "/bin/nano": [
+    "4789725dd2d8061e7faf00fce9af48e1",
+    "755"
+  ],
+  "/bin/bzgrep": [
+    "2b11565d85da178b3a1942a22d20c624",
+    "755"
+  ],
+  "/bin/sh": [
+    "453dc13f62c115c7b28cb4ede0ea3107",
+    "755"
+  ],
+  "/bin/dir": [
+    "41f5ae8a3999c7111d8862a1a69c70bd",
+    "755"
+  ],
+  "/bin/plymouth": [
+    "c3c74a83062be81c5a0f82543fedd9f2",
+    "755"
+  ],
+  "/bin/ping4": [
+    "483ff50857f26f9bd636bed69db8bf8f",
+    "755"
+  ],
+  "/bin/setfont": [
+    "2afd99344a51ac1be993b5f3312561cb",
+    "755"
+  ],
+  "/bin/journalctl": [
+    "668fdc47c0e0d272d1d9711366e82f90",
+    "755"
+  ],
+  "/bin/nc.openbsd": [
+    "3dd534fc7f982d3d79391e8c26bcf023",
+    "755"
+  ],
+  "/bin/less": [
+    "cccb785c35781822ec582d95c6c5b0b9",
+    "755"
+  ],
+  "/bin/ip": [
+    "8b4c9c1ecac33ab5ddde5e5f5f874353",
+    "755"
+  ],
+  "/bin/ntfsinfo": [
+    "5079a5cf0082feb3edcc3f7e88508b34",
+    "755"
+  ],
+  "/bin/ln": [
+    "ebc3d2b02f9ef9e8f2a7d39c170e8b57",
+    "755"
+  ],
+  "/bin/ntfsrecover": [
+    "dbbb5e1321b2b601597684c2bc66b76f",
+    "755"
+  ],
+  "/bin/ss": [
+    "60c8ab4fb5a29808a496936e183b90f3",
+    "755"
+  ]
+}
